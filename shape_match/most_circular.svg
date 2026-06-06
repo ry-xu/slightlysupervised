@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" font-family="sans-serif" style="background:#fff">
+<text x="10" y="24" font-size="16" font-weight="bold">Most circular countries (dashed grey = equal-area reference circle; IPQ 1.0 = perfect circle)</text>
+<circle cx="110.0" cy="150.0" r="57.5" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M83.0,203.6L56.8,170.2L62.6,121.4L95.3,87.3L146.8,85.2L176.4,115.6L161.1,163.0L124.9,200.0L83.0,203.6Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="110.0" y="56" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">Maldives</text>
+<text x="110.0" y="252" font-size="12" text-anchor="middle" fill="#555">IPQ=0.921</text>
+<circle cx="330.0" cy="150.0" r="57.3" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M378.3,148.2L336.5,221.1L288.1,211.9L267.9,163.4L282.0,110.9L336.5,90.0L372.4,106.3L378.3,148.2Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="330.0" y="56" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">Nauru</text>
+<text x="330.0" y="252" font-size="12" text-anchor="middle" fill="#555">IPQ=0.895</text>
+<circle cx="550.0" cy="150.0" r="52.4" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M538.3,210.8L525.0,204.1L516.9,185.9L506.6,146.8L509.9,128.0L526.7,106.6L563.1,85.3L584.9,83.8L607.4,111.9L607.5,141.1L575.3,184.8L538.3,210.8Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="550.0" y="56" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">São Tomé and Principe</text>
+<text x="550.0" y="252" font-size="12" text-anchor="middle" fill="#555">IPQ=0.885</text>
+<circle cx="770.0" cy="150.0" r="52.3" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M779.6,194.7L713.5,184.7L700.3,154.0L697.3,132.4L738.7,88.8L785.3,107.6L803.3,128.2L816.4,132.2L816.2,149.9L811.1,162.8L798.6,170.1L779.6,194.7Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="770.0" y="56" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">Antigua and Barb.</text>
+<text x="770.0" y="252" font-size="12" text-anchor="middle" fill="#555">IPQ=0.879</text>
+<circle cx="990.0" cy="150.0" r="57.9" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M1047.2,164.4L1036.2,168.0L999.3,190.1L978.3,197.8L959.1,201.7L944.1,200.1L935.8,187.2L936.7,167.4L933.4,149.5L930.6,140.0L936.0,114.3L948.3,100.3L965.3,89.0L992.0,93.2L1048.7,109.7L1060.5,125.1L1060.9,135.5L1050.4,152.3L1047.2,164.4Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="990.0" y="56" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">Andorra</text>
+<text x="990.0" y="252" font-size="12" text-anchor="middle" fill="#555">IPQ=0.876</text>
+<circle cx="110.0" cy="370.0" r="51.0" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M146.4,398.6L78.3,437.7L48.0,391.3L74.9,332.3L107.0,316.9L125.7,315.0L153.3,369.7L146.4,398.6Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="110.0" y="276" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">Niue</text>
+<text x="110.0" y="472" font-size="12" text-anchor="middle" fill="#555">IPQ=0.867</text>
+<circle cx="330.0" cy="370.0" r="53.3" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M283.1,398.3L288.5,349.6L315.6,322.8L341.2,307.1L367.6,305.3L376.7,345.6L370.3,402.4L345.9,430.4L327.9,440.2L283.1,398.3Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="330.0" y="276" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">St. Vin. and Gren.</text>
+<text x="330.0" y="472" font-size="12" text-anchor="middle" fill="#555">IPQ=0.861</text>
+<circle cx="550.0" cy="370.0" r="52.3" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M568.5,413.9L515.5,423.0L488.9,372.6L528.8,313.0L585.0,303.9L594.9,349.7L568.5,413.9Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="550.0" y="276" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">San Marino</text>
+<text x="550.0" y="472" font-size="12" text-anchor="middle" fill="#555">IPQ=0.853</text>
+<circle cx="770.0" cy="370.0" r="53.7" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M816.3,404.4L735.6,414.8L707.2,374.9L735.6,315.4L809.0,306.2L816.3,404.4Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="770.0" y="276" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">Vatican</text>
+<text x="770.0" y="472" font-size="12" text-anchor="middle" fill="#555">IPQ=0.837</text>
+<circle cx="990.0" cy="370.0" r="55.0" fill="none" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M1048.0,402.8L1006.3,403.2L953.6,392.9L919.1,387.4L915.4,374.9L928.9,335.2L956.8,315.7L1011.8,318.5L1049.3,345.8L1052.7,390.9L1048.0,402.8Z" fill="#3b82f6" fill-opacity="0.40" stroke="#1e3a8a" stroke-width="1.6"/>
+<text x="990.0" y="276" font-size="13" text-anchor="middle" font-weight="bold" fill="#1e3a8a">Cook Is.</text>
+<text x="990.0" y="472" font-size="12" text-anchor="middle" fill="#555">IPQ=0.832</text>
+</svg>
