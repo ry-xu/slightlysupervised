@@ -38,13 +38,24 @@ def descriptor(pts):
     idx = list(range(1, K+1)) + list(range(-K, 0))
     return np.array([abs(Z[k % N]) for k in idx]) / f0
 
-countries = []
+# Natural Earth splits some de-facto states out of their parent country.
+# Merge them back so we compare full, internationally-recognized borders.
+MERGE = {'Somaliland': 'Somalia'}
+
+geoms = {}   # display name -> list of feature geometries to union
 for feat in data['features']:
     p = feat['properties']
     name = p.get('NAME') or p.get('ADMIN')
     if name in SKIP or p.get('TYPE') not in ('Sovereign country', 'Country', 'Dependency'):
         continue
-    poly = largest_polygon(feat['geometry'])
+    name = MERGE.get(name, name)
+    geoms.setdefault(name, []).append(shape(feat['geometry']))
+
+from shapely.ops import unary_union
+countries = []
+for name, gs in geoms.items():
+    merged = unary_union(gs)
+    poly = merged if merged.geom_type == 'Polygon' else max(merged.geoms, key=lambda x: x.area)
     lon, lat = poly.centroid.x, poly.centroid.y
     tf = Transformer.from_crs('EPSG:4326',
         f'+proj=laea +lat_0={lat} +lon_0={lon} +ellps=WGS84', always_xy=True)
