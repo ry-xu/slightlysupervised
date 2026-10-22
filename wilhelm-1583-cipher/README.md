@@ -4,7 +4,7 @@ In the Bavarian State Archives there is a letter to Duke Wilhelm V, dated 12 Jun
 and then at line 8 it switches to cipher. It was written during the Cologne War by someone at the court of Wilhelm's
 brother Ernst, three weeks after Ernst was elected Archbishop of Cologne.
 
-David Bourdeau maintains a [ledger](https://github.com/dbourdeau/cyphersolver) of historical ciphers, along with
+Daniel Bourdeau maintains a [ledger](https://github.com/dbourdeau/cyphersolver) of historical ciphers, along with
 transcriptions of them. This letter (DECODE record R9424) was listed there as "attempted, not solved". The cipher part
 had never been read.
 
@@ -64,7 +64,7 @@ The first prints the decoded letter. The second compares the key against 40 shuf
 The from-scratch search (`anneal3.py`) needs a 4-gram model built with `ngram_cond.py` from the DTA 1500–1599 download.
 It isn't included because of its size.
 
-Thanks to David Bourdeau for the ledger and the transcriptions, and to the Deutsches Textarchiv for the 16th-century
+Thanks to Daniel Bourdeau for the ledger and the transcriptions, and to the Deutsches Textarchiv for the 16th-century
 German.
 
 Text and reading: CC BY 4.0. Code: MIT. The transcription is by D. Bourdeau (CC BY 4.0). The word list is derived from
