@@ -1,0 +1,124 @@
+R9424 transcription - BayHStA Kurbayern Aeusseres Archiv 4591 f.274-277 (IMG_R9424_I44564_P1..P6)
+Transcribed glyph-by-glyph from photos. Clear German in [brackets]. ? = uncertain glyph.
+LEGEND (cipher glyphs):
+  a b c ... lowercase = glyph looks like that Latin minuscule
+  e = epsilon-shaped e (the only e form used in cipher)
+  d = looped d (delta/ð-like, ascender curling left)
+  D = triangle-shaped delta (∆)
+  Z = ʒ (tailed z below line)
+  z = z written like a '2' with flat foot (distinct from digit 2? treated as one glyph)
+  3 = figure 3 ; 4 = figure 4
+  / = slash (occurs inside words, often after e/i: "e/", "i/")
+  p = ρ-like p with long descender
+  + = cross-mark sign (insertion/reference mark)
+Word separators = spaces as written.
+
+=== P1 (f.274r) : clear opening, cipher from line 8 to end of page ===
+L08 [wöll in] + dZ3koecsoDka nprse risD zka drok3ei/keka
+L09 goad3z4e/kz po4aiieo4am cokioazkdy [Zwisch Ho. Fe.]
+L10 [und Ni. sein] gdm3z4e/k zoe/onisrco4akepiaz
+L11 mdiafcrco4akeyi/os/ droakz zka razkzag aroD3kwkam
+L12 pyokzkz iiDz eodD ekswe zre ikszc gzk3ozka , [Zuelegen?]
+L13 eq ikzecDka zka Drazs rs/k zrkq noc 3kai3erngm .
+L14 ( miD4i/ zk3ozcnd. [Si.] rs/roa dinmur3ar oazo3aco4aka
+L15 ycrnd4s4aokaeoin qnam bsk4zokaeoing . kemekoa
+L16 n4dD miz mkoc 3rz i/kao3 d4s^pedDk wkqD4i/ nra i/rzc/      (^ = small superscript mark over p)
+L17 rwkz ck3sodD kcsodDkz iizaknka zok wkedDzowka .
+L18 dnyein/ryd odD ioazc zka 3zkecka nrn3ks ra 3ikc/ka
+L19 czkika skicDka . mke oec roa eieto?co4n i4zDrazka      (t? = glyph like t / crossed l)
+L20 {struck:re} rse i/ks/ nra zok eiera/r sre/ka Dkzrw dD4nka
+L21 zok e4s/ izriafzia/kz i4a izkoeoa3noc/ ekon i/kocw Dkzrw
+L22 4?wksroc/ka , i/roe rwkz aoc 4we{struck:D} 3Dka-eo . 4zkzd 3Dka     (first 4? could be a crossed sign +)
+L23 bysic/odD{struck:4e} e4-s/ 3kiizc i/kzzkad . # . i/kska      (# = sign "o-o" joined by a bar, like a dumbbell; b = 6-shaped b)
+L24 zrzri/3kzrdDc ekoa i/ok zoe noc/ iik3 mi/kzDoazkrad
+L25 zrake i/izzc zoekz 4zcDka roa 3zoe/ edrazrsin 3kwka
+L26 iaz{struck:ia4/} ios,3ikcDkzmo3k e4 i/4s/ rse i4a . [Ca.?] rsokaozc
+L27 i/kzzka . {struck clear words: [Gn.. sein soll mir]} yi/kDze ni3eodD ozk #
+L28 i4a zoeka iazgd zkz3skodDka zrzkoa kDz zizoD wkek
+L29 skicD 3kiiDzc noc wkedDrozkaDroc , iaz3sonti , rwmkDrscka
+L30 e4 e4s/ nra zoekn{struck:eot} ecozc dDroa razkza Dkz/a,i/inekna      (i/ine... near margin, last glyphs uncertain)
+L31- clear: [Wie? Mo. (gloss: Mündlich) von disem allem mit f.g. aussfuehrlichen, wie? dann ich ... thun ... Sonst ... Mo. ...]   -- clear German resumes
+
+P1 right margin by L08: [Nota aliq(ui)d? / Jacob(?) . 2]  (reading uncertain)
+P1 left edge (L31): [bischof?] (clear, partly cut)
+
+MARGIN TABLE (it is on the FACING leaf, f.273v, visible at the left edge of P1; the left part of each line is cut off by the photo / gutter).
+Written slanting. Transcribed line by line (… = cut off at left):
+  … Z o .
+  …uers Jan ✠ .   ✠.          (✠ = cross-like sign with serifs, 2x)
+  …nlis Tubicino(?) ✠          (✠ variant, crossed)
+  …inneist(?) ſ(?) .  ШШ       (ШШ = double-w/comb-shaped sign)
+  …tag Bry(?) .  2w(?)         (sign like '2' + 'w'/'ro')
+  [ruled line]
+  Y  ri .
+  Γ  ⌐9 (a '9'-shaped hook on a long heavy horizontal bar)
+  ee .
+  ☐ .
+  ⌘(double-barred cross sign)  ſe .
+  [ruled line]
+  X(sign: X with loop feet)  Colong(= Cöln/Colonia?)  δ .
+  δδ .  Wirtb.(= Wirtemberg)  ng(?)
+  … Landgraff  φ .
+  => looks like a nomenclator fragment (names = signs): Cöln = δ?, Wirtemberg = δδ?, Landgraf = φ.
+
+=== P2 (f.274v) : clear German only, no cipher. (Margin note with + insertion, clear.) ===
+
+=== P3 (f.275r) : clear with cipher words in lines ~15-24; INTERLINEAR DECIPHERMENT (lighter ink, another hand) above cipher words ===
+Gloss readings in {gloss: ...}, tentative.
+P3a [haben, wann die sich mit] dmzkz ycDinwtz4wecko        {gloss: "der" over dmzkz ; "thumbrobst"(=Dompropst?) over ycD...}
+P3b yi?özmwiz3m zodDcw3 . [so {struck:wöll ...} sy mehr erbietig]   {gloss: "Wirtzburg" over yiözmwiz3m ; "eiechst.."/"Aichstet"? over zodDcw3}  (ö = o with two dots above, as written)
+P3c [.. f.g.] # [dieselb nach ausgang 5 der ...] zkzo        {gloss: "der" over zkzo}
+P3d e4an tDos/otbndy mizkeo3aozka . [Dieweil(?) ... selben]  {gloss faint: "sein(?) schilig(?) ... weihbischof(?)/ ...mittes"}
+P3e [... erbietig ... uber wie ich bericht] e4 yizzc . Sl mi izkoeoa3 zok   {gloss: "so wol der? zu Freising die"}
+P3f nroecka iiDcie zrn4akoa/knka , [und] Sl gzs/roa         {gloss: "weiser?/meiner? frurtig? Domherrn nimmermehr?  listig? Bellanis?"}
+P3g zka marnka Drwkamp .  [gleicher Meinung hort er]        {gloss: "den nonnen haben"}
+P3h [mitt] fndoszkeDrwndm , [er wurde man f. f.g.]          {gloss: "Hildesheim"}
+  (S = capital-S-shaped glyph, only in 'Sl'/'Si')
+Close: [Den 12 Junij Ao. 83 Stilo no(vo)] ; subscription [E. f.g. vnterthenigster und gehorsamer Diener] signed with a sign resembling 'Q' underlined.
+Postscript left bottom (clear): [E.f.g. bitt ich umb gottes willen dz sie? ... disen brief selbs auszuschen(?) und dieselben (?) ...]
+
+=== P4 (f.275v) : address, clear ===
+[Dem durchleuchtigen Hochgebornen Fürsten und Herrn Herrn Wilhelmen Pfaltzgraven bey Rhein Hertzogen in Obern und Nidern Bayrn etc. meinem genedigisten Fürsten und Herrn]
+[Zu Irer F.G. aignen handen und sonst niemand zu erbrechen]  ; seal-marks ; docket above: [Vo(n)? .. Landorff(?)] ; docket below: [Doctor?.. und Hertzog Philipps halb. 12 Jun. 83] ; top: shelf/pencil marks.
+=== P5 (f.276r) : clear German/Latin only (enclosure on Cologne affairs, Bishop, "Coloniensium ... Leodiensium"), no cipher ===
+=== P6 (f.276v/277, photographed rotated) : clear German only, no cipher ===
+
+=== CIPHER GLYPH FREQUENCIES (P1 L08-L30 + P3 cipher words; clear/struck/gloss excluded) ===
+words: 179  glyphs: 1092
+k  135  12.4%
+z  110  10.1%
+a  103   9.4%
+o   96   8.8%
+i   84   7.7%
+e   68   6.2%
+r   63   5.8%
+c   47   4.3%
+D   45   4.1%
+/   45   4.1%
+n   41   3.8%
+s   40   3.7%
+d   38   3.5%
+3   35   3.2%
+4   34   3.1%
+w   25   2.3%
+m   23   2.1%
+y   12   1.1%
+t   10   0.9%
+g    8   0.7%
+p    6   0.5%
+q    4   0.4%
+b    4   0.4%
+f    3   0.3%
+#    3   0.3%
+S    2   0.2%
+l    2   0.2%
+Z    1   0.1%
+u    1   0.1%
+ö    1   0.1%
+h    1   0.1%
+v    1   0.1%
+)    1   0.1%
+(Counts approximate: a few stray h/v/u/)/non-ASCII come from P3 parenthetical notes parsed with the words.)
+LEGEND ADDENDUM: w = omega-shaped glyph (ω); f = phi-shaped (ϕ); q = theta-shaped (θ); y = y-shaped with long tail;
+ ö = o with two dots (P3 once); t = t/crossed-l shape; S = capital-S shape (only in "Si"/"Sl", maybe a clear abbreviation).
+ Note: r here is the v/r-shaped glyph (looks like 'v'); n = n/u-shaped glyph.

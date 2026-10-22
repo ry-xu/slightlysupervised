@@ -5,6 +5,8 @@ Unless a folder states otherwise:
 - Code is licensed under the MIT License below.
 - catalan-irrationality-measure/data/23-catalan-740/litsey_strongtrial.json is third-party data from
   https://github.com/slitsey/catalan-irrationality-measure, licensed under Apache-2.0.
+- wilhelm-1583-cipher/transcription/ is D. Bourdeau's transcription from https://github.com/dbourdeau/cyphersolver (CC BY 4.0).
+- wilhelm-1583-cipher/work/lex_1500s.json is a word list derived from the Deutsches Textarchiv (CC BY-SA 4.0).
 
 MIT License
 
