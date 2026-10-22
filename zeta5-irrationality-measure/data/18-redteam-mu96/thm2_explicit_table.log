@@ -1,0 +1,10 @@
+Theorem 2 explicit: log||B_K|| <= K rho2 + 7logK + 2log h + E(K) + log(len max|tau|^2/2pi) + 7/d_Gamma
+  K=  40  bound 451.701  true 292.561  bound-true 159.140  (non-exponential part 152.92)
+  K=  80  bound 747.666  true 591.037  bound-true 156.629  (non-exponential part 150.10)
+  K= 160  bound 1345.905  true 1188.273  bound-true 157.632  (non-exponential part 150.77)
+  K= 240  bound 1944.744  true 1785.641  bound-true 159.102  (non-exponential part 152.04)
+  K= 320  bound 2543.457  true 2383.066  bound-true 160.391  (non-exponential part 153.18)
+  K= 480  bound 3740.447  true 3577.999  bound-true 162.448  (non-exponential part 155.03)
+  K= 640  bound 4937.021  true 4772.990  bound-true 164.031  (non-exponential part 156.47)
+Lemma 4 closed form |r_j| and sign (-1)^(j-1) exact for all N<j<=K at K=40: True
+Lemma 4 closed form |r_j| and sign (-1)^(j-1) exact for all N<j<=K at K=80: True

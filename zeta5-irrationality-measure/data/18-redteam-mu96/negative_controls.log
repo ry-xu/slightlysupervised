@@ -1,0 +1,9 @@
+SUP negative control, gap [0.335759269,0.336528149], target -6.6607669000 (float sup -6.66076681785): certified=False (expect False)
+SUP negative control, gap [0.335759269,0.336528149], target -6.6607668200 (float sup -6.66076681785): certified=False (expect False)
+SUP negative control, gap [0.335759269,0.336528149], target -6.6607668170 (float sup -6.66076681785): certified=False (expect False)
+SUP positive control same gap, target -6.6607665: certified=True pieces=12
+INF negative control, [0.333460051,0.334991627], target -6.6608135000 (float inf -6.66081360140): certified=False (expect False)
+INF negative control, [0.333460051,0.334991627], target -6.6608135900 (float inf -6.66081360140): certified=False (expect False)
+INF positive control same range, target -6.660814: certified=True pieces=24
+CONTOUR negative control target 0.8088018000 (H(x1)=0.80880185128): certified=False (expect False)
+CONTOUR negative control target 0.8088018500 (H(x1)=0.80880185128): certified=False (expect False)

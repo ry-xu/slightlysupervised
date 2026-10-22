@@ -1,0 +1,24 @@
+== 16-mu5 final assembly; measure /Users/ryanxu/Documents/dev/pi-plus-e/data/16-mu5/rho1600.exact.json
+   [rho1600.exact.json] J=1600 positive=True mass==lambda: True nested=True supp=[7.12432e-05,0.75330119] in (0,2): True min_len=3.68e-05 reg_const=9.547
+   sup_(t>=0)(2U-V) < M0 = -6.6607665000 certified: 7733 intervals, 4530 splits, worst bound [-6.6607665000861992153060247966957879006975790061871120196537 +/- 4.39e-59], tail g(2) = [-7.98425 +/- 2.67e-6], (6.8) at 2 = [-7.98341 +/- 1.09e-6]  [148.7s]
+   I(rho) = [-2.122676939604957409086598 +/- 3.66e-25]
+   C*     = [2.653035990340488661129250 +/- 3.37e-25]
+   U      = lam*M0 - I + C* = [-1.385496082554553929784151 +/- 2.99e-25]
+   inf_S(2U-V) > m0 = -6.6608140000 certified on S = [7.12432e-05, 0.75330119]: 3412 intervals, 213 splits, worst bound [-6.6608139967512550170465732085019299085994663647589514901157 +/- 1.60e-59]  [0.1s]
+   sup_[al,1](2U(-s^2)+phi) < M1 = 0.8691543000 certified: 78 intervals, 14 splits, worst [0.86915428682744583314969199413424469750607800804754750118286 +/- 2.71e-60]  [1.0s]
+   max_Gamma H < M1' = 0.8088020000 certified on Gamma+ = [-1.069911] -> [-1.069911+0.2i] -> [1.0+0.2i] -> [1.0]: 215 pieces, 23 splits, worst [0.80880196111871884118891047512128932096588181717658175043194 +/- 2.79e-60]  [6.1s]
+   Theorem 1 (residue moduli):  rho_K = M1  - m0 = 75299683/10000000 = 7.5299683000
+   Theorem 2 (contour):         rho_K = M1c - m0 = 466851/62500 = 7.4696160000   (Fauzan: 6933/500 = 13.866)
+   A* (exact rational) = 1.313454423173066;  A_M (M = 400000000) = 1.313454439360566
+   [check] int_20^4000 = -0.0598432940999 (09/15: -0.0598432940999);  A_100000 = 1.3135191719802 (15: 1.3135191719802)
+   eps_max = -(A_M + U) = [0.072041643193987937085 +/- 3.16e-23]
+   [Theorem 1] threshold rho_K*lam/eps_max = [96.6832566373 +/- 3.99e-11];  eps = 9005205399/125000000000, c = 12840243739/1000000000: eps*c - lam = 3.226e-05 > 0, mu - rho_K*c = 3.372e-03 > 0  ==> mu(zeta(5)) <= 96.69
+   [Theorem 2] threshold rho_K*lam/eps_max = [95.9083454190 +/- 1.87e-11];  eps = 9005205399/125000000000, c = 513596269/40000000: eps*c - lam = 7.979e-06 > 0, mu - rho_K*c = 8.273e-04 > 0  ==> mu(zeta(5)) <= 95.91
+==> mu(zeta(5)) <= 95.91  [156s]
+   Fauzan (rho=6933/500, eps=79/1600)      : rho*lam/eps = 259.7681
+   09 (rho=6933/500, eps=0.0708797530)     : rho*lam/eps = 180.9551
+   Thm 1 rho, 09 eps                       : rho*lam/eps = 98.2681
+   Thm 1 rho, new eps                      : rho*lam/eps = 96.6833
+   Thm 2 rho, 09 eps                       : rho*lam/eps = 97.4805
+   Thm 2 rho, new eps                      : rho*lam/eps = 95.9083
+.venv/bin/python scripts/16-mu5/mu_final16.py 2>&1  154.85s user 0.57s system 99% cpu 2:36.05 total

@@ -1,0 +1,10 @@
+PARI stack size set to 2000000000 bytes, maximum size set to 2000011264
+K=40: charpoly degree 37 [0.1s]
+K=40: 37 real roots (deg 37); nearest root distance 8.754560481e-128 ; second 2.285415907e-123 [0.3s]
+K=40: log||B_K|| = 292.5613171408397 ; (1/K) log||B_K|| = 7.314032929
+  check: log(K^5 |q^T M q|/K^(12N-2K+6) ... ) Rayleigh: log|qMq|-log qGq = 292.56131714084 vs log||B|| = 292.56131714084
+  Lemma 3 (Nikolskii) at 40 points of S: max(log lhs - log rhs) = -21.798 (must be <= 0)
+  Cor 3' on Gamma (83 pts): max(log|p|^2 - log rhs) = -53.482 (must be <= 0)
+  Lemma 5 on Gamma (83 pts): max(log|Omega| - (-K Vt + 7/d)) = -7.187 (must be <= 0)
+  Theorem 2 integrand bound on Gamma: max(log|Omega p^2| - log bound) = -64.013 (must be <= 0)
+  Theorem 2 explicit bound: log||B_K|| <= 451.701 ; true log||B_K|| = 292.561317 ; rate true 7.314033

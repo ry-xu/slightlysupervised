@@ -1,0 +1,12 @@
+   [K=40] nodes underflowing in start vector: 0 ; log-weight range over nodes 1042.0
+K=40 nodes=11840 orth=4.9e-15 : log||B_K|| = 292.5613171408 ; rate = 7.31403293 ; sign -1 ; it 4 ; [0.0s/0.0s]
+   [K=40] nodes underflowing in start vector: 0 ; log-weight range over nodes 1042.3
+K=40 nodes=26496 orth=8.7e-15 : log||B_K|| = 292.5613171408 ; rate = 7.31403293 ; sign -1 ; it 4 ; [0.0s/0.1s]
+   [K=80] nodes underflowing in start vector: 0 ; log-weight range over nodes 2072.4
+K=80 nodes=12096 orth=5.6e-15 : log||B_K|| = 591.0372993643 ; rate = 7.38796624 ; sign -1 ; it 4 ; [0.0s/0.1s]
+   [K=80] nodes underflowing in start vector: 0 ; log-weight range over nodes 2072.7
+K=80 nodes=27072 orth=1.8e-15 : log||B_K|| = 591.0372993643 ; rate = 7.38796624 ; sign -1 ; it 4 ; [0.1s/0.2s]
+   [K=160] nodes underflowing in start vector: 2418 ; log-weight range over nodes 4133.4
+K=160 nodes=12352 orth=6.4e-15 : log||B_K|| = 1188.2728511251 ; rate = 7.42670532 ; sign -1 ; it 4 ; [0.2s/0.4s]
+   [K=160] nodes underflowing in start vector: 5414 ; log-weight range over nodes 4133.8
+K=160 nodes=27552 orth=1.1e-14 : log||B_K|| = 1188.2728511251 ; rate = 7.42670532 ; sign -1 ; it 4 ; [0.5s/0.8s]

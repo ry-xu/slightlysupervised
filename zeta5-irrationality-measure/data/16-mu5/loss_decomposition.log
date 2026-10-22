@@ -1,0 +1,10 @@
+Fauzan [a,b] = [1/18, 1/3]:  F(a,b) = 5.2159 vs max V = 3.6163;  lam(1-log al lam) = 3.3931 vs max phi = 1.1537 (at s = 0.6216);  2 lam log R = 5.2568
+  kappa_F (Fauzan)                       = 13.8659
+  A: exact max_[a,b] V                   = 12.2662   (gain 1.5996)
+  B: + exact |r_j| exponent max phi     = 10.0269   (gain 2.2394)
+  C: + coupling sup_s(2U(-s^2)+phi)     = 9.5198   (gain 0.5070)
+  D: best single arcsine [a,b] = [0.00000,0.24298] -> 9.0743   (gain 0.4455)
+  E: equilibrium measure (sharp)        = 7.529935   (gain 1.5443)
+  F: certified 1600-arcsine measure     = 7.529968   (loss vs E: 3.29e-05)
+  (Fauzan's kappa minimized over (a,b): 13.8635 at a=0.05706, b=0.31913)
+  equilibrium: support [7.11951e-05,0.753950], F = -6.66078112, M1 = 0.869154 at s* = 0.97318

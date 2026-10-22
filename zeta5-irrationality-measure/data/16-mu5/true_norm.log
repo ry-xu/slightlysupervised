@@ -1,0 +1,16 @@
+{"K": 80, "h": 74, "logFro": 591.0372993644652, "rateFro": 7.387966242055815, "logNorm": 591.0372993642756, "rate": 7.387966242053444, "npos": 37, "nneg": 37, "time": 6.0}
+Traceback (most recent call last):
+  File "/Users/ryanxu/Documents/dev/pi-plus-e/scripts/16-mu5/true_norm.py", line 111, in <module>
+    res = run(K, dps=dps, eig=eig)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ryanxu/Documents/dev/pi-plus-e/scripts/16-mu5/true_norm.py", line 98, in run
+    ev = mp.eigsy(Bm, eigvals_only=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ryanxu/Documents/dev/pi-plus-e/.venv/lib/python3.12/site-packages/mpmath/matrices/eigen_symmetric.py", line 569, in eigsy
+    tridiag_eigen(ctx, d, e, False)
+  File "/Users/ryanxu/Documents/dev/pi-plus-e/.venv/lib/python3.12/site-packages/mpmath/matrices/eigen_symmetric.py", line 430, in tridiag_eigen
+    raise RuntimeError("tridiag_eigen: no convergence to an eigenvalue after %d iterations" % iterlim)
+RuntimeError: tridiag_eigen: no convergence to an eigenvalue after 80 iterations
+{"K": 240, "h": 222, "logFro": 1785.6413312423508, "rateFro": 7.440172213509795, "time": 27.7}
+{"K": 320, "h": 296, "logFro": 2383.0664002111594, "rateFro": 7.447082500659873, "time": 48.1}
+{"K": 480, "h": 444, "logFro": 3577.9992183776912, "rateFro": 7.454165038286857, "time": 109.4}

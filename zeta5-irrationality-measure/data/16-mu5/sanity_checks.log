@@ -1,0 +1,8 @@
+(S1) K=40: max rel. error closed form vs product = 1.34e-49;  max_j [log|r_j| - bound] = -22.2895 (must be <= 0)
+(S1) K=80: max rel. error closed form vs product = 1.72e-49;  max_j [log|r_j| - bound] = -24.7141 (must be <= 0)
+(S1) K=400: max rel. error closed form vs product = 1.75e-48;  max_j [log|r_j| - bound] = -30.3459 (must be <= 0)
+(S2) K=40: max_t [lower bound - log W_K(t)] = -8.22457 (must be <= 0)
+(S2) K=80: max_t [lower bound - log W_K(t)] = -9.57621 (must be <= 0)
+(S2) K=400: max_t [lower bound - log W_K(t)] = -12.7674 (must be <= 0)
+(S3) K=40: exact log||B_K|| = 292.561 (rate 7.3140);  Theorem-1 bound = 377.757 (rate 9.4439);  Fauzan's (C.1) without margin: kappa*K = 554.6
+(S3) K=80: exact log||B_K|| = 591.037 (rate 7.3880);  Theorem-1 bound = 678.908 (rate 8.4864);  Fauzan's (C.1) without margin: kappa*K = 1109.3

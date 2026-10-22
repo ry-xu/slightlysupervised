@@ -1,0 +1,14 @@
+====================================================================================================
+contour certificate 2026-10-22 07:09:36 ; target M1c = 404401/500000
+H(x1) = [0.80880185128432719515721067134278514 +/- 2.68e-36], x1 = -1069911/1000000
+d_Gamma = min(|x1+1|, 1/5, 1) = 0.069911
+  edge left done: pieces so far 19, worst [0.80880199456191618961384673570657592859 +/- 7.91e-40]
+====================================================================================================
+contour certificate 2026-10-22 07:10:24 ; target M1c = 404401/500000
+H(x1) = [0.80880185128432719515721067134278514 +/- 2.68e-36], x1 = -1069911/1000000
+d_Gamma = min(|x1+1|, 1/5, 1) = 0.069911
+  edge left done: pieces so far 19, worst [0.80880199456191618961384673570657592859 +/- 7.91e-40]
+  edge top done: pieces so far 72, worst [0.80880199456191618961384673570657592859 +/- 7.91e-40]
+  edge right done: pieces so far 73, worst [0.80880199456191618961384673570657592859 +/- 7.91e-40]
+RESULT max_Gamma+ H < 404401/500000 : True ; pieces 73 ; worst upper bound [0.80880199456191618961384673570657592859 +/- 7.91e-40] ; F' evals 143 [1.7s]
+# note (18): the first block above (07:09:36) is an aborted run - a coarse top-edge box failed a branch assertion; fixed by splitting such boxes instead of aborting. The second block (07:10:24) is the valid certificate.

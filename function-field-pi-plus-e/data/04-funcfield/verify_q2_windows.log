@@ -1,0 +1,13 @@
+=== f = 1  (F = 0)
+  k=2: N=3, M=4, A=31, B=24, Y=64; 2A+2==Y: True; val(e(1/f)-S_N)=64 (==Y: True); next term gap=8 (>=2^N=8: True); val(u-V_M)=62 (==2A: True); margins: B-A=-7, A+B-Y=-9; 0.0s
+  k=3: N=7, M=9, A=1023, B=896, Y=2048; 2A+2==Y: True; val(e(1/f)-S_N)=2048 (==Y: True); next term gap=128 (>=2^N=128: True); val(u-V_M)=2046 (==2A: True); margins: B-A=-127, A+B-Y=-129; 0.0s
+  k=4: N=15, M=18, A=524287, B=491520, Y=1048576; 2A+2==Y: True; val(e(1/f)-S_N)=1048576 (==Y: True); next term gap=32768 (>=2^N=32768: True); val(u-V_M)=1048574 (==2A: True); margins: B-A=-32767, A+B-Y=-32769; 22.9s
+=== f = x  (F = 1)
+  k=2: N=2, M=3, A=15, B=12, Y=32; 2A+2==Y: True; val(e(1/f)-S_N)=32 (==Y: True); next term gap=4 (>=2^N=4: True); val(u-V_M)=30 (==2A: True); margins: B-A=-3, A+B-Y=-5; 0.0s
+  k=3: N=6, M=8, A=511, B=448, Y=1024; 2A+2==Y: True; val(e(1/f)-S_N)=1024 (==Y: True); next term gap=64 (>=2^N=64: True); val(u-V_M)=1022 (==2A: True); margins: B-A=-63, A+B-Y=-65; 0.0s
+=== f = x + 1  (F = 1)
+  k=2: N=2, M=3, A=15, B=12, Y=32; 2A+2==Y: True; val(e(1/f)-S_N)=32 (==Y: True); next term gap=4 (>=2^N=4: True); val(u-V_M)=30 (==2A: True); margins: B-A=-3, A+B-Y=-5; 0.0s
+  k=3: N=6, M=8, A=511, B=448, Y=1024; 2A+2==Y: True; val(e(1/f)-S_N)=1024 (==Y: True); next term gap=64 (>=2^N=64: True); val(u-V_M)=1022 (==2A: True); margins: B-A=-63, A+B-Y=-65; 0.0s
+=== f = x^2 + x + 1  (F = 2)
+  k=2: N=1, M=2, A=7, B=6, Y=16; 2A+2==Y: True; val(e(1/f)-S_N)=16 (==Y: True); next term gap=2 (>=2^N=2: True); val(u-V_M)=14 (==2A: True); margins: B-A=-1, A+B-Y=-3; 0.0s
+  k=3: N=5, M=7, A=255, B=224, Y=512; 2A+2==Y: True; val(e(1/f)-S_N)=512 (==Y: True); next term gap=32 (>=2^N=32: True); val(u-V_M)=510 (==2A: True); margins: B-A=-31, A+B-Y=-33; 0.0s

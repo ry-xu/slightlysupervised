@@ -1,0 +1,161 @@
+normalization: x^64 e_C(pi~) has first nonzero coefficient at index None (None = vanishes to precision 4096)
+=== q=2, precision x^60000  (t=0.2s)
+  e: 2415 partial quotients, last deg Q = 29984
+  Thakur 1992 pattern deg a_n = 2^(v2(n)+1) for all 2415 computed n: True
+  [e, q=2] top approximation events (E_n = 2 + deg a_(n+1)/deg Q_n):
+     E=2.6667  n=7  degQ_n=24  deg a_(n+1)=16
+     E=2.5000  n=15  degQ_n=64  deg a_(n+1)=32
+     E=2.4000  n=31  degQ_n=160  deg a_(n+1)=64
+     E=2.3333  n=63  degQ_n=384  deg a_(n+1)=128
+     E=2.2857  n=127  degQ_n=896  deg a_(n+1)=256
+     E=2.2500  n=255  degQ_n=2048  deg a_(n+1)=512
+     E=2.2222  n=511  degQ_n=4608  deg a_(n+1)=1024
+     E=2.2000  n=1023  degQ_n=10240  deg a_(n+1)=2048
+  [e, q=2] max E_n over windows of deg Q_n:
+     degQ in [32,64): max E = 2.1667  (#conv=7)
+     degQ in [64,128): max E = 2.5000  (#conv=9)
+     degQ in [128,256): max E = 2.4000  (#conv=16)
+     degQ in [256,512): max E = 2.3333  (#conv=24)
+     degQ in [512,1024): max E = 2.2857  (#conv=64)
+     degQ in [1024,2048): max E = 2.0833  (#conv=127)
+     degQ in [2048,4096): max E = 2.2500  (#conv=192)
+     degQ in [4096,8192): max E = 2.2222  (#conv=321)
+     degQ in [8192,16384): max E = 2.2000  (#conv=703)
+     degQ in [16384,32768): max E = 2.1818  (#conv=944)
+  u: 10617 partial quotients, last deg Q = 29998
+  u (q=2): degree histogram (top): [(1, 4714), (2, 2947), (4, 1506), (6, 726), (8, 347), (10, 159), (12, 96), (14, 44), (16, 28), (18, 8), (20, 11), (22, 3)] ... max deg = 258; #odd degrees >=3: 0
+  [u, q=2] top approximation events (E_n = 2 + deg a_(n+1)/deg Q_n):
+     E=2.3333  n=23  degQ_n=54  deg a_(n+1)=18
+     E=2.1818  n=16  degQ_n=33  deg a_(n+1)=6
+     E=2.1538  n=13  degQ_n=26  deg a_(n+1)=4
+     E=2.1250  n=86  degQ_n=240  deg a_(n+1)=30
+     E=2.1250  n=22  degQ_n=48  deg a_(n+1)=6
+     E=2.1111  n=70  degQ_n=180  deg a_(n+1)=20
+     E=2.0909  n=21  degQ_n=44  deg a_(n+1)=4
+     E=2.0889  n=31  degQ_n=90  deg a_(n+1)=8
+  [u, q=2] max E_n over windows of deg Q_n:
+     degQ in [32,64): max E = 2.3333  (#conv=9)
+     degQ in [64,128): max E = 2.0889  (#conv=20)
+     degQ in [128,256): max E = 2.1250  (#conv=43)
+     degQ in [256,512): max E = 2.0521  (#conv=75)
+     degQ in [512,1024): max E = 2.0667  (#conv=145)
+     degQ in [1024,2048): max E = 2.0353  (#conv=345)
+     degQ in [2048,4096): max E = 2.0373  (#conv=692)
+     degQ in [4096,8192): max E = 2.0189  (#conv=1484)
+     degQ in [8192,16384): max E = 2.0159  (#conv=2942)
+     degQ in [16384,32768): max E = 2.0076  (#conv=4847)
+=== q=3, precision x^40000  (t=4.6s)
+  e: 127 partial quotients, last deg Q = 15309
+  [e, q=3] top approximation events (E_n = 2 + deg a_(n+1)/deg Q_n):
+     E=4.0000  n=7  degQ_n=81  deg a_(n+1)=162
+     E=3.7500  n=15  degQ_n=324  deg a_(n+1)=567
+     E=3.6000  n=31  degQ_n=1215  deg a_(n+1)=1944
+     E=3.5000  n=63  degQ_n=4374  deg a_(n+1)=6561
+     E=2.1818  n=5  degQ_n=66  deg a_(n+1)=12
+     E=2.1724  n=11  degQ_n=261  deg a_(n+1)=45
+     E=2.1667  n=23  degQ_n=972  deg a_(n+1)=162
+     E=2.1628  n=47  degQ_n=3483  deg a_(n+1)=567
+  [e, q=3] max E_n over windows of deg Q_n:
+     degQ in [32,64): max E = 2.0476  (#conv=1)
+     degQ in [64,128): max E = 4.0000  (#conv=3)
+     degQ in [128,256): max E = 2.0488  (#conv=2)
+     degQ in [256,512): max E = 3.7500  (#conv=6)
+     degQ in [512,1024): max E = 2.1667  (#conv=8)
+     degQ in [1024,2048): max E = 3.6000  (#conv=8)
+     degQ in [2048,4096): max E = 2.1628  (#conv=20)
+     degQ in [4096,8192): max E = 3.5000  (#conv=12)
+     degQ in [8192,16384): max E = 2.1600  (#conv=63)
+  u: 6509 partial quotients, last deg Q = 19998
+  [u, q=3] top approximation events (E_n = 2 + deg a_(n+1)/deg Q_n):
+     E=2.2222  n=13  degQ_n=36  deg a_(n+1)=8
+     E=2.1667  n=8  degQ_n=24  deg a_(n+1)=4
+     E=2.1158  n=62  degQ_n=190  deg a_(n+1)=22
+     E=2.1000  n=6  degQ_n=20  deg a_(n+1)=2
+     E=2.0909  n=53  degQ_n=154  deg a_(n+1)=14
+     E=2.0909  n=14  degQ_n=44  deg a_(n+1)=4
+     E=2.0909  n=7  degQ_n=22  deg a_(n+1)=2
+     E=2.0862  n=40  degQ_n=116  deg a_(n+1)=10
+  [u, q=3] max E_n over windows of deg Q_n:
+     degQ in [32,64): max E = 2.2222  (#conv=10)
+     degQ in [64,128): max E = 2.0862  (#conv=21)
+     degQ in [128,256): max E = 2.1158  (#conv=35)
+     degQ in [256,512): max E = 2.0335  (#conv=80)
+     degQ in [512,1024): max E = 2.0409  (#conv=164)
+     degQ in [1024,2048): max E = 2.0129  (#conv=336)
+     degQ in [2048,4096): max E = 2.0053  (#conv=670)
+     degQ in [4096,8192): max E = 2.0132  (#conv=1310)
+     degQ in [8192,16384): max E = 2.0040  (#conv=2702)
+     degQ in [16384,32768): max E = 2.0026  (#conv=1170)
+=== q=4, precision x^40000  (t=6.4s)
+  e: 40 partial quotients, last deg Q = 20288
+  [e, q=4] top approximation events (E_n = 2 + deg a_(n+1)/deg Q_n):
+     E=6.0000  n=3  degQ_n=32  deg a_(n+1)=128
+     E=5.3333  n=7  degQ_n=192  deg a_(n+1)=640
+     E=5.0000  n=15  degQ_n=1024  deg a_(n+1)=3072
+     E=4.8000  n=31  degQ_n=5120  deg a_(n+1)=14336
+     E=2.1493  n=23  degQ_n=4288  deg a_(n+1)=640
+     E=2.1481  n=11  degQ_n=864  deg a_(n+1)=128
+     E=2.1463  n=5  degQ_n=164  deg a_(n+1)=24
+     E=2.1429  n=2  degQ_n=28  deg a_(n+1)=4
+  [e, q=4] max E_n over windows of deg Q_n:
+     degQ in [32,64): max E = 6.0000  (#conv=1)
+     degQ in [128,256): max E = 5.3333  (#conv=4)
+     degQ in [512,1024): max E = 2.1481  (#conv=7)
+     degQ in [1024,2048): max E = 5.0000  (#conv=1)
+     degQ in [4096,8192): max E = 4.8000  (#conv=16)
+     degQ in [16384,32768): max E = 2.0326  (#conv=8)
+  u: 1053 partial quotients, last deg Q = 20130
+  [u, q=4] top approximation events (E_n = 2 + deg a_(n+1)/deg Q_n):
+     E=3.1481  n=9  degQ_n=81  deg a_(n+1)=93
+     E=3.0446  n=25  degQ_n=336  deg a_(n+1)=351
+     E=3.0132  n=92  degQ_n=1359  deg a_(n+1)=1377
+     E=3.0039  n=285  degQ_n=5454  deg a_(n+1)=5475
+     E=2.2500  n=5  degQ_n=48  deg a_(n+1)=12
+     E=2.1449  n=15  degQ_n=207  deg a_(n+1)=30
+     E=2.1364  n=7  degQ_n=66  deg a_(n+1)=9
+     E=2.1362  n=41  degQ_n=837  deg a_(n+1)=114
+  [u, q=4] max E_n over windows of deg Q_n:
+     degQ in [32,64): max E = 2.2500  (#conv=3)
+     degQ in [64,128): max E = 3.1481  (#conv=3)
+     degQ in [128,256): max E = 2.1449  (#conv=8)
+     degQ in [256,512): max E = 3.0446  (#conv=8)
+     degQ in [512,1024): max E = 2.1362  (#conv=31)
+     degQ in [1024,2048): max E = 3.0132  (#conv=36)
+     degQ in [2048,4096): max E = 2.1040  (#conv=95)
+     degQ in [4096,8192): max E = 3.0039  (#conv=98)
+     degQ in [8192,16384): max E = 2.1011  (#conv=477)
+     degQ in [16384,32768): max E = 2.0776  (#conv=290)
+=== q=5, precision x^30000  (t=7.0s)
+  e: 24 partial quotients, last deg Q = 15250
+  [e, q=5] top approximation events (E_n = 2 + deg a_(n+1)/deg Q_n):
+     E=7.5000  n=3  degQ_n=50  deg a_(n+1)=275
+     E=6.6667  n=7  degQ_n=375  deg a_(n+1)=1750
+     E=6.2500  n=15  degQ_n=2500  deg a_(n+1)=10625
+     E=2.1296  n=23  degQ_n=13500  deg a_(n+1)=1750
+     E=2.1264  n=11  degQ_n=2175  deg a_(n+1)=275
+     E=2.1212  n=5  degQ_n=330  deg a_(n+1)=40
+     E=2.1111  n=2  degQ_n=45  deg a_(n+1)=5
+     E=2.0209  n=19  degQ_n=13175  deg a_(n+1)=275
+  [e, q=5] max E_n over windows of deg Q_n:
+     degQ in [32,64): max E = 7.5000  (#conv=2)
+     degQ in [256,512): max E = 6.6667  (#conv=4)
+     degQ in [2048,4096): max E = 6.2500  (#conv=8)
+     degQ in [8192,16384): max E = 2.1296  (#conv=8)
+  u: 442 partial quotients, last deg Q = 15000
+  [u, q=5] top approximation events (E_n = 2 + deg a_(n+1)/deg Q_n):
+     E=4.4286  n=4  degQ_n=28  deg a_(n+1)=68
+     E=4.1053  n=15  degQ_n=152  deg a_(n+1)=320
+     E=4.0258  n=57  degQ_n=776  deg a_(n+1)=1572
+     E=4.0062  n=211  degQ_n=3900  deg a_(n+1)=7824
+     E=2.2000  n=2  degQ_n=20  deg a_(n+1)=4
+     E=2.1667  n=3  degQ_n=24  deg a_(n+1)=4
+     E=2.1224  n=106  degQ_n=2648  deg a_(n+1)=324
+     E=2.1212  n=29  degQ_n=528  deg a_(n+1)=64
+  [u, q=5] max E_n over windows of deg Q_n:
+     degQ in [64,128): max E = 2.1154  (#conv=5)
+     degQ in [128,256): max E = 4.1053  (#conv=6)
+     degQ in [256,512): max E = 2.0167  (#conv=9)
+     degQ in [512,1024): max E = 4.0258  (#conv=33)
+     degQ in [2048,4096): max E = 4.0062  (#conv=154)
+     degQ in [8192,16384): max E = 2.1181  (#conv=230)
+done in 7.3s

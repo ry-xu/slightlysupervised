@@ -1,0 +1,268 @@
+--- q=2 (p=2), precision x^40000
+OK   (a) M=1: val(u-U_M) = 3 = q^(M+1)-1
+OK   (a) M=2: val(u-U_M) = 7 = q^(M+1)-1
+OK   (a) M=3: val(u-U_M) = 15 = q^(M+1)-1
+OK   (a) M=4: val(u-U_M) = 31 = q^(M+1)-1
+OK   (a) M=5: val(u-U_M) = 63 = q^(M+1)-1
+OK   (a) M=6: val(u-U_M) = 127 = q^(M+1)-1
+OK   (a) M=7: val(u-U_M) = 255 = q^(M+1)-1
+OK   (a) M=8: val(u-U_M) = 511 = q^(M+1)-1
+OK   (a) M=9: val(u-U_M) = 1023 = q^(M+1)-1
+OK   (a) M=10: val(u-U_M) = 2047 = q^(M+1)-1
+OK   (a) M=11: val(u-U_M) = 4095 = q^(M+1)-1
+OK   (a) M=12: val(u-U_M) = 8191 = q^(M+1)-1
+OK   (a) M=13: val(u-U_M) = 16383 = q^(M+1)-1
+OK   (a) M=14: val(u-U_M) = 32767 = q^(M+1)-1
+OK   (b) N=0: val(e-S_N) = 2 = (N+1)q^(N+1), lc=1
+OK   (b) N=1: val(e-S_N) = 8 = (N+1)q^(N+1), lc=1
+OK   (b) N=2: val(e-S_N) = 24 = (N+1)q^(N+1), lc=1
+OK   (b) N=3: val(e-S_N) = 64 = (N+1)q^(N+1), lc=1
+OK   (b) N=4: val(e-S_N) = 160 = (N+1)q^(N+1), lc=1
+OK   (b) N=5: val(e-S_N) = 384 = (N+1)q^(N+1), lc=1
+OK   (b) N=6: val(e-S_N) = 896 = (N+1)q^(N+1), lc=1
+OK   (b) N=7: val(e-S_N) = 2048 = (N+1)q^(N+1), lc=1
+OK   (b) N=8: val(e-S_N) = 4608 = (N+1)q^(N+1), lc=1
+OK   (b) N=9: val(e-S_N) = 10240 = (N+1)q^(N+1), lc=1
+OK   (b) N=10: val(e-S_N) = 22528 = (N+1)q^(N+1), lc=1
+OK   (c) deg D_0 = 0
+OK   (c) D_0 | D_0
+OK   (c) deg D_1 = 2
+OK   (c) D_0 | D_1
+OK   (c) D_1 | D_1
+OK   (c) deg D_2 = 8
+OK   (c) D_0 | D_2
+OK   (c) D_1 | D_2
+OK   (c) D_2 | D_2
+OK   (c) deg D_3 = 24
+OK   (c) D_0 | D_3
+OK   (c) D_1 | D_3
+OK   (c) D_2 | D_3
+OK   (c) D_3 | D_3
+OK   (d) deg E_1 = 1 = A_M = 1
+OK   (d) deg E_2 = 4 = A_M = 4
+OK   (d) deg E_3 = 11 = A_M = 11
+OK   (f) M=1: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=2: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=3: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=4: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=5: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+--- q=3 (p=3), precision x^40000
+OK   (a) M=1: val(u-U_M) = 8 = q^(M+1)-1
+OK   (a) M=2: val(u-U_M) = 26 = q^(M+1)-1
+OK   (a) M=3: val(u-U_M) = 80 = q^(M+1)-1
+OK   (a) M=4: val(u-U_M) = 242 = q^(M+1)-1
+OK   (a) M=5: val(u-U_M) = 728 = q^(M+1)-1
+OK   (a) M=6: val(u-U_M) = 2186 = q^(M+1)-1
+OK   (a) M=7: val(u-U_M) = 6560 = q^(M+1)-1
+OK   (a) M=8: val(u-U_M) = 19682 = q^(M+1)-1
+OK   (b) N=0: val(e-S_N) = 3 = (N+1)q^(N+1), lc=1
+OK   (b) N=1: val(e-S_N) = 18 = (N+1)q^(N+1), lc=1
+OK   (b) N=2: val(e-S_N) = 81 = (N+1)q^(N+1), lc=1
+OK   (b) N=3: val(e-S_N) = 324 = (N+1)q^(N+1), lc=1
+OK   (b) N=4: val(e-S_N) = 1215 = (N+1)q^(N+1), lc=1
+OK   (b) N=5: val(e-S_N) = 4374 = (N+1)q^(N+1), lc=1
+OK   (b) N=6: val(e-S_N) = 15309 = (N+1)q^(N+1), lc=1
+OK   (c) deg D_0 = 0
+OK   (c) D_0 | D_0
+OK   (c) deg D_1 = 3
+OK   (c) D_0 | D_1
+OK   (c) D_1 | D_1
+OK   (c) deg D_2 = 18
+OK   (c) D_0 | D_2
+OK   (c) D_1 | D_2
+OK   (c) D_2 | D_2
+OK   (c) deg D_3 = 81
+OK   (c) D_0 | D_3
+OK   (c) D_1 | D_3
+OK   (c) D_2 | D_3
+OK   (c) D_3 | D_3
+OK   (d) deg E_1 = 2 = A_M = 2
+OK   (d) deg E_2 = 10 = A_M = 10
+OK   (d) deg E_3 = 36 = A_M = 36
+OK   (f) M=1: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=2: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=3: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=4: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=5: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+--- q=4 (p=2), precision x^40000
+OK   (a) M=1: val(u-U_M) = 15 = q^(M+1)-1
+OK   (a) M=2: val(u-U_M) = 63 = q^(M+1)-1
+OK   (a) M=3: val(u-U_M) = 255 = q^(M+1)-1
+OK   (a) M=4: val(u-U_M) = 1023 = q^(M+1)-1
+OK   (a) M=5: val(u-U_M) = 4095 = q^(M+1)-1
+OK   (a) M=6: val(u-U_M) = 16383 = q^(M+1)-1
+OK   (b) N=0: val(e-S_N) = 4 = (N+1)q^(N+1), lc=1
+OK   (b) N=1: val(e-S_N) = 32 = (N+1)q^(N+1), lc=1
+OK   (b) N=2: val(e-S_N) = 192 = (N+1)q^(N+1), lc=1
+OK   (b) N=3: val(e-S_N) = 1024 = (N+1)q^(N+1), lc=1
+OK   (b) N=4: val(e-S_N) = 5120 = (N+1)q^(N+1), lc=1
+OK   (b) N=5: val(e-S_N) = 24576 = (N+1)q^(N+1), lc=1
+OK   (c) deg D_0 = 0
+OK   (c) D_0 | D_0
+OK   (c) deg D_1 = 4
+OK   (c) D_0 | D_1
+OK   (c) D_1 | D_1
+OK   (c) deg D_2 = 32
+OK   (c) D_0 | D_2
+OK   (c) D_1 | D_2
+OK   (c) D_2 | D_2
+OK   (c) deg D_3 = 192
+OK   (c) D_0 | D_3
+OK   (c) D_1 | D_3
+OK   (c) D_2 | D_3
+OK   (c) D_3 | D_3
+OK   (d) deg E_1 = 3 = A_M = 3
+OK   (d) deg E_2 = 18 = A_M = 18
+OK   (d) deg E_3 = 81 = A_M = 81
+OK   (f) M=1: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=2: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=3: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=4: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=5: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+--- q=5 (p=5), precision x^40000
+OK   (a) M=1: val(u-U_M) = 24 = q^(M+1)-1
+OK   (a) M=2: val(u-U_M) = 124 = q^(M+1)-1
+OK   (a) M=3: val(u-U_M) = 624 = q^(M+1)-1
+OK   (a) M=4: val(u-U_M) = 3124 = q^(M+1)-1
+OK   (a) M=5: val(u-U_M) = 15624 = q^(M+1)-1
+OK   (b) N=0: val(e-S_N) = 5 = (N+1)q^(N+1), lc=1
+OK   (b) N=1: val(e-S_N) = 50 = (N+1)q^(N+1), lc=1
+OK   (b) N=2: val(e-S_N) = 375 = (N+1)q^(N+1), lc=1
+OK   (b) N=3: val(e-S_N) = 2500 = (N+1)q^(N+1), lc=1
+OK   (b) N=4: val(e-S_N) = 15625 = (N+1)q^(N+1), lc=1
+OK   (c) deg D_0 = 0
+OK   (c) D_0 | D_0
+OK   (c) deg D_1 = 5
+OK   (c) D_0 | D_1
+OK   (c) D_1 | D_1
+OK   (c) deg D_2 = 50
+OK   (c) D_0 | D_2
+OK   (c) D_1 | D_2
+OK   (c) D_2 | D_2
+OK   (c) deg D_3 = 375
+OK   (c) D_0 | D_3
+OK   (c) D_1 | D_3
+OK   (c) D_2 | D_3
+OK   (c) D_3 | D_3
+OK   (d) deg E_1 = 4 = A_M = 4
+OK   (d) deg E_2 = 28 = A_M = 28
+OK   (d) deg E_3 = 152 = A_M = 152
+OK   (f) M=1: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=2: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=3: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=4: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+--- q=7 (p=7), precision x^40000
+OK   (a) M=1: val(u-U_M) = 48 = q^(M+1)-1
+OK   (a) M=2: val(u-U_M) = 342 = q^(M+1)-1
+OK   (a) M=3: val(u-U_M) = 2400 = q^(M+1)-1
+OK   (a) M=4: val(u-U_M) = 16806 = q^(M+1)-1
+OK   (b) N=0: val(e-S_N) = 7 = (N+1)q^(N+1), lc=1
+OK   (b) N=1: val(e-S_N) = 98 = (N+1)q^(N+1), lc=1
+OK   (b) N=2: val(e-S_N) = 1029 = (N+1)q^(N+1), lc=1
+OK   (b) N=3: val(e-S_N) = 9604 = (N+1)q^(N+1), lc=1
+OK   (c) deg D_0 = 0
+OK   (c) D_0 | D_0
+OK   (c) deg D_1 = 7
+OK   (c) D_0 | D_1
+OK   (c) D_1 | D_1
+OK   (c) deg D_2 = 98
+OK   (c) D_0 | D_2
+OK   (c) D_1 | D_2
+OK   (c) D_2 | D_2
+OK   (c) deg D_3 = 1029
+OK   (c) D_0 | D_3
+OK   (c) D_1 | D_3
+OK   (c) D_2 | D_3
+OK   (c) D_3 | D_3
+OK   (d) deg E_1 = 6 = A_M = 6
+OK   (d) deg E_2 = 54 = A_M = 54
+OK   (d) deg E_3 = 396 = A_M = 396
+OK   (f) M=1: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=2: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=3: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+--- q=8 (p=2), precision x^40000
+OK   (a) M=1: val(u-U_M) = 63 = q^(M+1)-1
+OK   (a) M=2: val(u-U_M) = 511 = q^(M+1)-1
+OK   (a) M=3: val(u-U_M) = 4095 = q^(M+1)-1
+OK   (a) M=4: val(u-U_M) = 32767 = q^(M+1)-1
+OK   (b) N=0: val(e-S_N) = 8 = (N+1)q^(N+1), lc=1
+OK   (b) N=1: val(e-S_N) = 128 = (N+1)q^(N+1), lc=1
+OK   (b) N=2: val(e-S_N) = 1536 = (N+1)q^(N+1), lc=1
+OK   (b) N=3: val(e-S_N) = 16384 = (N+1)q^(N+1), lc=1
+OK   (c) deg D_0 = 0
+OK   (c) D_0 | D_0
+OK   (c) deg D_1 = 8
+OK   (c) D_0 | D_1
+OK   (c) D_1 | D_1
+OK   (c) deg D_2 = 128
+OK   (c) D_0 | D_2
+OK   (c) D_1 | D_2
+OK   (c) D_2 | D_2
+OK   (c) deg D_3 = 1536
+OK   (c) D_0 | D_3
+OK   (c) D_1 | D_3
+OK   (c) D_2 | D_3
+OK   (c) D_3 | D_3
+OK   (d) deg E_1 = 7 = A_M = 7
+OK   (d) deg E_2 = 70 = A_M = 70
+OK   (f) M=1: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=2: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=3: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+--- q=9 (p=3), precision x^40000
+OK   (a) M=1: val(u-U_M) = 80 = q^(M+1)-1
+OK   (a) M=2: val(u-U_M) = 728 = q^(M+1)-1
+OK   (a) M=3: val(u-U_M) = 6560 = q^(M+1)-1
+OK   (b) N=0: val(e-S_N) = 9 = (N+1)q^(N+1), lc=1
+OK   (b) N=1: val(e-S_N) = 162 = (N+1)q^(N+1), lc=1
+OK   (b) N=2: val(e-S_N) = 2187 = (N+1)q^(N+1), lc=1
+OK   (b) N=3: val(e-S_N) = 26244 = (N+1)q^(N+1), lc=1
+OK   (c) deg D_0 = 0
+OK   (c) D_0 | D_0
+OK   (c) deg D_1 = 9
+OK   (c) D_0 | D_1
+OK   (c) D_1 | D_1
+OK   (c) deg D_2 = 162
+OK   (c) D_0 | D_2
+OK   (c) D_1 | D_2
+OK   (c) D_2 | D_2
+OK   (c) deg D_3 = 2187
+OK   (c) D_0 | D_3
+OK   (c) D_1 | D_3
+OK   (c) D_2 | D_3
+OK   (c) D_3 | D_3
+OK   (d) deg E_1 = 8 = A_M = 8
+OK   (d) deg E_2 = 88 = A_M = 88
+OK   (f) M=1: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+OK   (f) M=2: T_M = sum_(j<q) x^(j p1) + O(x^(q p1))
+--- (e) q=2 approximants V_M
+OK   (e) M=1: A=3, val(u-V_M) = 6 = 2A; deg_x E_M = 1 < A; val(u - V_M - x^(2A)(1+x)u) = 13 (>= 3A = 9)
+OK       second-order term is O(x^{3A})
+OK   (e) M=2: A=7, val(u-V_M) = 14 = 2A; deg_x E_M = 4 < A; val(u - V_M - x^(2A)(1+x)u) = 29 (>= 3A = 21)
+OK       second-order term is O(x^{3A})
+OK   (e) M=3: A=15, val(u-V_M) = 30 = 2A; deg_x E_M = 11 < A; val(u - V_M - x^(2A)(1+x)u) = 61 (>= 3A = 45)
+OK       second-order term is O(x^{3A})
+OK   (e) M=4: A=31, val(u-V_M) = 62 = 2A; deg_x E_M = 26 < A; val(u - V_M - x^(2A)(1+x)u) = 125 (>= 3A = 93)
+OK       second-order term is O(x^{3A})
+OK   (e) M=5: A=63, val(u-V_M) = 126 = 2A; deg_x E_M = 57 < A; val(u - V_M - x^(2A)(1+x)u) = 253 (>= 3A = 189)
+OK       second-order term is O(x^{3A})
+OK   (e) M=6: A=127, val(u-V_M) = 254 = 2A; deg_x E_M = 120 < A; val(u - V_M - x^(2A)(1+x)u) = 509 (>= 3A = 381)
+OK       second-order term is O(x^{3A})
+OK   (e) M=7: A=255, val(u-V_M) = 510 = 2A; deg_x E_M = 247 < A; val(u - V_M - x^(2A)(1+x)u) = 1021 (>= 3A = 765)
+OK       second-order term is O(x^{3A})
+OK   (e) M=8: A=511, val(u-V_M) = 1022 = 2A; deg_x E_M = 502 < A; val(u - V_M - x^(2A)(1+x)u) = 2045 (>= 3A = 1533)
+OK       second-order term is O(x^{3A})
+OK   (e) M=9: A=1023, val(u-V_M) = 2046 = 2A; deg_x E_M = 1013 < A; val(u - V_M - x^(2A)(1+x)u) = 4093 (>= 3A = 3069)
+OK       second-order term is O(x^{3A})
+OK   (e) M=10: A=2047, val(u-V_M) = 4094 = 2A; deg_x E_M = 2036 < A; val(u - V_M - x^(2A)(1+x)u) = 8189 (>= 3A = 6141)
+OK       second-order term is O(x^{3A})
+OK   (e) M=11: A=4095, val(u-V_M) = 8190 = 2A; deg_x E_M = 4083 < A; val(u - V_M - x^(2A)(1+x)u) = 16381 (>= 3A = 12285)
+OK       second-order term is O(x^{3A})
+OK   (e) M=12: A=8191, val(u-V_M) = 16382 = 2A; deg_x E_M = 8178 < A; val(u - V_M - x^(2A)(1+x)u) = 32765 (>= 3A = 24573)
+OK       second-order term is O(x^{3A})
+OK   (e) M=13: A=16383, val(u-V_M) = 32766 = 2A; deg_x E_M = 16369 < A; val(u - V_M - x^(2A)(1+x)u) = 65533 (>= 3A = 49149)
+OK       second-order term is O(x^{3A})
+OK   (e) M=14: A=32767, val(u-V_M) = 65534 = 2A; deg_x E_M = 32752 < A; val(u - V_M - x^(2A)(1+x)u) = 131069 (>= 3A = 98301)
+OK       second-order term is O(x^{3A})
+OK   (e) M=15: A=65535, val(u-V_M) = 131070 = 2A; deg_x E_M = 65519 < A; val(u - V_M - x^(2A)(1+x)u) = None (>= 3A = 196605)
+OK       second-order term is O(x^{3A})
+all checks passed

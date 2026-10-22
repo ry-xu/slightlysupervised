@@ -1,0 +1,2 @@
+pieces on [3,60]: 475; identity R = xF + Q(5.13) violated at 0 of 1425 test points
+spot checks at x ~ 1e5..1e9: True

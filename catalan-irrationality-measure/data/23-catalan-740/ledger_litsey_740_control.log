@@ -1,0 +1,13 @@
+--- control: Litsey constants, kappa = 3700000/519037, delta = 1e-7
+L2_second_budget (True, -3.171813574528942e-10)
+L3_first_budget (True, -0.0003226557915553653)
+L4_c1_le_c2 (True, 0.08472)
+rho 103.8074
+eta 1.8763954
+L6_eta (True, 1.8763955797333334)
+eta_plus_chi 2.5253954
+L7 (True, 0.0024474941092831534)
+mu 740.0
+mu_exact 740
+mu_limit_18rho_over_E 739.8972849954506
+ALL True

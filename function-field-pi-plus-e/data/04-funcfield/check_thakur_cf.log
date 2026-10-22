@@ -1,0 +1,2 @@
+a0 = 1
+exact match a_n = [v2(n)+1] for n = 1..986: True  (deg Q_n up to 9998)

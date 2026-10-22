@@ -1,0 +1,7 @@
+K=40 N=3 h=37 built G0, M exactly [0.0s]
+    |G0-part| = 1.1178e+180, |zeta5*M-part| = 1.1178e+180
+(a) Prop 2.2: q^T G(zeta5) q = 2.257399203541011002231772e+73 ; integral = 2.257399203541011002231772e+73 ; rel diff 0.0
+(b) q^T M q == sum_j j^4 Res : True
+(c) contour integral = (-1.0780068590729360697e+180 + 1.8411806891339707114e+122j) ; q^T M q = -1.0780068590729360697e+180 ; rel diff 3.41e-46
+(d1) Lemma 1(a): K^(12N-2K+1) int p^2 W_K = 2.2573992035410109211e+73 vs q^T G q = 2.2573992035410110022e+73 ; rel 3.59e-17
+(d2) Lemma 1(b): K^(12N-2K+6) (1/2pi i) oint tau^2 Omega p^2 = (-1.0780068590729360697e+180 - 1.4312237883156588951e+129j) ; rel diff to q^T M q 7.83e-51

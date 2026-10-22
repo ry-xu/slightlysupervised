@@ -1,0 +1,7 @@
+q=2 dmax=20: rank 84/84 (full=True); minimal L for full rank = 66 (generic ~ 3*dmax+3 = 63); 0.1s
+q=2 dmax=60: rank 244/244 (full=True); minimal L for full rank = 185 (generic ~ 3*dmax+3 = 183); 0.7s
+q=2 dmax=150: rank 604/604 (full=True); minimal L for full rank = 462 (generic ~ 3*dmax+3 = 453); 5.6s
+q=2 dmax=300: rank 1204/1204 (full=True); minimal L for full rank = 910 (generic ~ 3*dmax+3 = 903); 66.5s
+q=3 dmax=20: rank 84/84 (full=True); minimal L for full rank = 69 (generic ~ 3*dmax+3 = 63); 0.1s
+q=3 dmax=60: rank 244/244 (full=True); minimal L for full rank = 183 (generic ~ 3*dmax+3 = 183); 1.6s
+q=3 dmax=150: rank 604/604 (full=True); minimal L for full rank = 453 (generic ~ 3*dmax+3 = 453); 16.8s

@@ -1,0 +1,11 @@
+kappa(1/18,1/3) = [13.8658566788653 +/- 1.02e-14];  Y = [8.600000000 +/- 3e-13] (paper 43/5);  kappa < 6933/500: True
+  paper (A.11): 2773171335773/200000000000 < kappa < 6932928339433/500000000000: True
+
+-(A_100000 + U) >= 0.0708797530
+mu threshold rho*lam/eps  = 180.955061  (with rho = 6933/500);  with rho -> kappa: [180.9531903 +/- 4.64e-8]
+09 choice: eps = 7087/100000 < -(A+U): True;  eps*c - lam = 1227/40000000 > 0: True;  rho*c = 36197193/200000 = 180.985965 < 181: True
+Fauzan: eps*c - lam = 1/1280 (paper 1/24000), rho*c - 260 = -1/80 (paper -1/80); his threshold rho*lam/eps = 259.7681
+
+irrationality decay: -1600(A_200 + U) >= 62.1820  (Fauzan 139/5 = 27.8)
+mu = 180: admissible c interval (13.050271, 12.981393) nonempty: False
+mu = 181: admissible c interval (13.050271, 13.053512) nonempty: True

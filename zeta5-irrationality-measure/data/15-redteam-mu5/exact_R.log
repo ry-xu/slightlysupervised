@@ -1,0 +1,13 @@
+(1) int_3^20 R/x^3 = 322437603634266857629/7535670527041937280000  = 0.042788176908371   pieces = 143
+    equals Fauzan (5.18) exactly: True
+    Table 3 unit integrals all match: True  []
+    sum of Table 3 == (5.18): True
+    [t = 0.1s]
+(3a) R(y+80)-2R(y+40)+R(y)=0 and R(y+4000)-R(y)=100(R(y+40)-R(y)) at 2000 random y: True
+(3b) R(y+40)-R(y) = 40F(y) on all 332 pieces of [20,60): True
+(3c) exact range of Q on [20,60] (closure of pieces): [0 = 0.000000 at x=20.0000, 2790/1849 = 1.508924 at x=29.7674]
+     Fauzan's (5.14) [-1/2, 13/8] holds on the period: True
+(4)  Fauzan closed form (5.13) == R - xF at all checked interior points: True (mismatches 0)
+    [t = 1.4s]
+(2) int_20^4000 R/x^3 = [-0.059843294099888148448609120884770944044481576376992983162128 +/- 2.92e-61]  pieces = 33034   [t = 14.8s]
+    denominator digits of exact value: 3995

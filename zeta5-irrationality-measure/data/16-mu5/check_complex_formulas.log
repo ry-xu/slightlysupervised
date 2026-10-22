@@ -1,0 +1,11 @@
+tau=-1.069911+0.0i: Vt quad = -0.469011399920277, closed = [-0.469011399920277 +/- 2.38e-16], |diff| = 8.92e-17;  dVt |diff| = 3.39e-16
+tau=-1.069911+0.07i: Vt quad = -0.453536981218146, closed = [-0.453536981218146 +/- 4.03e-16], |diff| = 7.33e-17;  dVt |diff| = 2.96e-16
+tau=-0.5+0.2i: Vt quad = -0.745358998105126, closed = [-0.745358998105126 +/- 4.43e-16], |diff| = 2.17e-17;  dVt |diff| = 6.12e-17
+tau=-0.98+0.05i: Vt quad = -0.607125195867983, closed = [-0.607125195867983 +/- 3.61e-16], |diff| = 3.03e-17;  dVt |diff| = 2.22e-16
+tau=0.3+0.2i: Vt quad = -0.0288120071510104, closed = [-0.0288120071510104 +/- 5.65e-18], |diff| = 4.54e-18;  dVt |diff| = 2.86e-17
+tau=1.0+0.1i: Vt quad = 0.2640723590046, closed = [0.264072359004600 +/- 1.47e-16], |diff| = 7.25e-19;  dVt |diff| = 1.31e-17
+tau=-0.003+0.2i: Vt quad = -0.293372369140151, closed = [-0.293372369140151 +/- 9.32e-18], |diff| = 2.06e-17;  dVt |diff| = 1.68e-16
+arcsine at -1.0699+0.0i: U quad-closed = 4.93e-32;  Stieltjes quad-closed = 9.86e-32
+arcsine at -0.5+0.2i: U quad-closed = 7.4e-32;  Stieltjes quad-closed = 0.0
+arcsine at 0.3+0.2i: U quad-closed = 3.94e-31;  Stieltjes quad-closed = 4.21e-31
+arcsine at 1.0+0.1i: U quad-closed = 4.93e-32;  Stieltjes quad-closed = 0.0
